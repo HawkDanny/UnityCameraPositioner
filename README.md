@@ -1,6 +1,6 @@
 # UnityCameraPositioner
-A small script that lets you use the viewport to position in game cameras
-*UPDATE: THERE IS LITERALLY A HOTKEY FOR THIS: CTRL + SHIFT + F
+A small script that lets you use the viewport to position in game cameras  
+*UPDATE: THERE IS LITERALLY A HOTKEY FOR THIS: CTRL + SHIFT + F*
 
 ![screenshot](https://imgur.com/F6vCoQK.gif)
 
